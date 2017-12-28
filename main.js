@@ -138,7 +138,7 @@ function showResults() {
 	final.style.color = "white";
 
 	var kluchImage = document.createElement('img');
-	kluchImage.src = "assets/images/kluch.jpg";
+	kluchImage.src = "assets/images/Kluch.jpg";
 
 	main.appendChild(final);
 	main.appendChild(kluchImage);
